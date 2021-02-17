@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_riva.mk
+    $(LOCAL_DIR)/derp_riva.mk
 
 COMMON_LUNCH_CHOICES := \
-     aosip_riva-userdebug
+     derp_riva-userdebug
