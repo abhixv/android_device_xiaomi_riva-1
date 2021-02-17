@@ -30,7 +30,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := riva
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := Redmi 5A
-PRODUCT_NAME := aosip_riva
+PRODUCT_NAME := derp_riva
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
